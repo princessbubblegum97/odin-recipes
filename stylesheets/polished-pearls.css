@@ -1,0 +1,75 @@
+body{
+  
+
+    font-family: "Sue Ellen Francisco", sans-serif;
+    /* sans-serif is alternative font, if Roboto cannot be loaded sans-serif will be used */
+    font-size: 30px;
+    background-color:#FEF2CF;
+    color: #424242;
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Sue Ellen Francisco", serif;
+  color: #424242;
+}
+
+
+
+
+
+.links-wrapper > .nav-link a{
+    font-family: "Sue Ellen Francisco", sans-serif;
+    text-decoration: none;
+    color: #424242;
+
+    /* remove underline from link */
+    transition: 0.5s;
+    overflow: hidden;
+
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:underline;
+    
+   
+
+
+}
+
+
+.links-wrapper > .nav-link a.active{
+
+  background-color: #04AA6D;
+  color: white;
+    
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+
+.links-wrapper > .nav-link a:hover
+{
+    color:#EB688F;
+    
+
+}
+
+
+
+
