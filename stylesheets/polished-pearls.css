@@ -42,6 +42,7 @@ h1, h2, h3, h4, h5, h6{
     text-align: center;
     padding: 14px 16px;
     text-decoration:underline;
+    margin-left: 3%;
     
    
 
@@ -49,17 +50,16 @@ h1, h2, h3, h4, h5, h6{
 }
 
 
-.links-wrapper > .nav-link a.active{
+
+/* Suppposed to chnage color of active link, however rejecting css */
+.links-wrapper > .nav-link :active{
 
   background-color: #04AA6D;
   color: white;
     
 }
 
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
-}
+
 
 
 
@@ -73,3 +73,27 @@ h1, h2, h3, h4, h5, h6{
 
 
 
+.recipe-heading{
+
+
+        margin-left: 4%;
+
+
+}
+
+
+
+.landing-heading{
+
+
+        margin-left: 4%;
+
+
+}
+
+
+.rezepte-image{
+
+    padding-left: 7%;
+
+}
