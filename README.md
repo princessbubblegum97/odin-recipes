@@ -19,7 +19,7 @@ The website will consist of a main index page which will contain links to a bunc
 ## Credits:
 
 #### Landing
-Image: https://parsleyandicing.com/birthday-cake-ice-cream/
+Image: https://parsleyandicing.com/birthday-cake-ice-cream
 
 ### Recipes:
 
