@@ -76,25 +76,18 @@ h1, h2, h3, h4, h5, h6{
 .recipe-heading{
 
 
-        margin-left: 4%;
+        margin-left: 8%;
 
 
 }
 
 
 
-.landing-heading{
-
-
-        margin-left: 4%;
-
-
-}
 
 
 .rezepte-image{
 
-    padding-left: 7%;
+    padding-left: 9%;
 
 }
 
@@ -122,6 +115,14 @@ h1, h2, h3, h4, h5, h6{
 
 }
 
+
+.landing-heading{
+
+
+        padding-left: 8%;
+
+
+}
 
 
 .landing-intro{
